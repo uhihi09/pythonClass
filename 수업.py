@@ -1,23 +1,13 @@
-name = ["김용휘", "박원준", "백승준", "배준하"]
-name2 = ["이원재", "안현우", "우병헌"]
-name.append("우승하")
-print(name)
-name.insert(3,"김규민")
-print(name)
-name.extend(name2)
-print(name)
-name.insert(1,"김규민")
-print(name)
-name.remove("김규민")
-print(name)
-del name[4]
-print(name)
-name.pop()
-print(name)
-a = [6, 3, 9]
-print('a:', a)
-a.sort(reverse=True) # 원본을 역정렬하고 수정
-print('-----수행 후-----')
-print('a:', a)
-i = {"귀여움":"백승준","똑똑함":"박원준"}
-print(i["똑똑함"])
+id_db = ["kkk", 'iii', "jjj"]  
+id = input("id: ")
+a = []
+if id in id_db:
+	print("이미 가입된 ID입니다.")
+elif id not in id_db:
+	print(f"{id}로 회원가입을 진행합니다.")
+	print(f"{id}")
+	a = input("pw(!,@,# 중 한 개 이상 포함): ").split(" ")
+	if "!"in a or "@" in a or "#" in a:
+		print("회원가입 완료")
+	else:
+		print("회원가입 취소")
