@@ -5,6 +5,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b0553b39-a789-47f0-8f16-7f7010ebd658" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/A.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/B.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/C.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/D.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/H.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dino.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/dino1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/dino2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/images/tree.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/백준.py" beforeDir="false" afterPath="$PROJECT_DIR$/백준.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/수업.py" beforeDir="false" afterPath="$PROJECT_DIR$/수업.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/수행평가/.gitignore" beforeDir="false" />
@@ -22,6 +32,13 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
   <component name="FlaskConsoleOptions" custom-start-script="import sys; print('Python %s on %s' % (sys.version, sys.platform)); sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;from flask.cli import ScriptInfo, NoAppException&#10;for module in [&quot;main.py&quot;, &quot;wsgi.py&quot;, &quot;app.py&quot;]:&#10;    try: locals().update(ScriptInfo(app_import_path=module, create_app=None).load_app().make_shell_context()); print(&quot;\nFlask App: %s&quot; % app.import_name); break&#10;    except NoAppException: pass">
     <envs>
       <env key="FLASK_APP" value="app" />
@@ -34,7 +51,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/수행평가" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 6
@@ -47,6 +64,12 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Python.A.executor": "Run",
+    "Python.B.executor": "Run",
+    "Python.C.executor": "Run",
+    "Python.D.executor": "Run",
+    "Python.H.executor": "Run",
+    "Python.dino.executor": "Run",
     "Python.main.executor": "Run",
     "Python.백준.executor": "Run",
     "Python.수업.executor": "Run",
@@ -62,6 +85,11 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/images" />
+    </key>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -86,15 +114,50 @@
       <workItem from="1749771828937" duration="7038000" />
       <workItem from="1749858796720" duration="5350000" />
       <workItem from="1750030433417" duration="3283000" />
-      <workItem from="1750125226828" duration="4307000" />
+      <workItem from="1750125226828" duration="10282000" />
+      <workItem from="1750203193061" duration="8262000" />
+      <workItem from="1750299678765" duration="4690000" />
+      <workItem from="1750332195789" duration="19084000" />
+      <workItem from="1750635221098" duration="6713000" />
+      <workItem from="1750724335674" duration="7111000" />
+      <workItem from="1750809235619" duration="10114000" />
+      <workItem from="1750894909117" duration="12138000" />
+      <workItem from="1750981667030" duration="8559000" />
+      <workItem from="1751206367337" duration="2160000" />
+      <workItem from="1751240661424" duration="10455000" />
+      <workItem from="1751326591646" duration="9734000" />
+      <workItem from="1751442838328" duration="8329000" />
+      <workItem from="1751536368536" duration="4513000" />
+      <workItem from="1751797552236" duration="64969000" />
+      <workItem from="1752030731682" duration="4511000" />
+      <workItem from="1752044028853" duration="880000" />
+      <workItem from="1752046134759" duration="5672000" />
+      <workItem from="1752103635772" duration="16749000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <default-breakpoints>
+        <breakpoint type="python-exception">
+          <properties notifyOnTerminate="true" exception="BaseException">
+            <option name="notifyOnTerminate" value="true" />
+          </properties>
+        </breakpoint>
+      </default-breakpoints>
+    </breakpoint-manager>
+  </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/$main.coverage" NAME="main 커버리지 결과" MODIFIED="1749778699344" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/수행평가" />
-    <SUITE FILE_PATH="coverage/$.coverage" NAME="백준 커버리지 결과" MODIFIED="1750133870653" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/$A.coverage" NAME="A 커버리지 결과" MODIFIED="1751887710312" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/$D.coverage" NAME="D 커버리지 결과" MODIFIED="1751942965169" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/$H.coverage" NAME="H 커버리지 결과" MODIFIED="1751884498812" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/$main.coverage" NAME="main 커버리지 결과" MODIFIED="1750381229005" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/수행평가" />
+    <SUITE FILE_PATH="coverage/$B.coverage" NAME="B 커버리지 결과" MODIFIED="1751938696534" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/$dino.coverage" NAME="dino 커버리지 결과" MODIFIED="1752138684221" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/$.coverage" NAME="백준 커버리지 결과" MODIFIED="1752194310556" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/$C.coverage" NAME="C 커버리지 결과" MODIFIED="1751942177784" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>

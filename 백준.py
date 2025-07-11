@@ -1,18 +1,13 @@
-import sys
-input = sys.stdin.readline
-a,b = map(int,input().split())
-cnt1 = []
-cnt2 = []
-ans = []
+a = int(input())
 for i in range(a):
-    cnt1.append(input())
-for ii in range(b):
-    cnt2.append(input())
-for i in cnt1:
-    for ii in cnt2:
-        if i == ii:
-            ans.append(i)
-ans.sort()
-print(len(ans))
-for i in ans:
-    print(i)
+    b = int(input())
+    c = ""
+    if b <= 25:
+        c = "World Finals"
+    elif b <= 1000:
+        c = "Round 3"
+    elif b <= 4500:
+        c = "Round 2"
+    else:
+        c = "Round 1"
+    print(f"Case #{i+1}: {c}")
