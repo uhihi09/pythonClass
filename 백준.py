@@ -1,13 +1,9 @@
 a = int(input())
 for i in range(a):
-    b = int(input())
-    c = ""
-    if b <= 25:
-        c = "World Finals"
-    elif b <= 1000:
-        c = "Round 3"
-    elif b <= 4500:
-        c = "Round 2"
-    else:
-        c = "Round 1"
-    print(f"Case #{i+1}: {c}")
+    b = list(input().split())
+    cnt = b[0]
+    b[1] = int(b[1])
+    b[2] = int(b[2])
+    cnt = list(cnt)
+    del cnt[b[1]:b[2]]
+    print("".join(map(str, cnt)))

@@ -5,18 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b0553b39-a789-47f0-8f16-7f7010ebd658" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/A.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/B.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/C.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/D.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/H.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dino.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/dino1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/dino2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/images/tree.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tk/tk-4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tk/tk-5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tk/tk-7.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dino.py" beforeDir="false" afterPath="$PROJECT_DIR$/dino.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/백준.py" beforeDir="false" afterPath="$PROJECT_DIR$/백준.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/수업.py" beforeDir="false" afterPath="$PROJECT_DIR$/수업.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/수행평가/.gitignore" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/수행평가/Procfile" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/수행평가/README.md" beforeDir="false" />
@@ -71,6 +65,9 @@
     "Python.H.executor": "Run",
     "Python.dino.executor": "Run",
     "Python.main.executor": "Run",
+    "Python.tk-4.executor": "Run",
+    "Python.tk-5.executor": "Run",
+    "Python.tk-7.executor": "Run",
     "Python.백준.executor": "Run",
     "Python.수업.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -81,7 +78,7 @@
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "preferences.pluginManager",
+    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -133,6 +130,10 @@
       <workItem from="1752044028853" duration="880000" />
       <workItem from="1752046134759" duration="5672000" />
       <workItem from="1752103635772" duration="16749000" />
+      <workItem from="1752208654950" duration="8847000" />
+      <workItem from="1752282035152" duration="5578000" />
+      <workItem from="1752449161544" duration="1000" />
+      <workItem from="1752458854315" duration="2631000" />
     </task>
     <servers />
   </component>
@@ -154,10 +155,13 @@
     <SUITE FILE_PATH="coverage/$A.coverage" NAME="A 커버리지 결과" MODIFIED="1751887710312" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/$D.coverage" NAME="D 커버리지 결과" MODIFIED="1751942965169" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/$H.coverage" NAME="H 커버리지 결과" MODIFIED="1751884498812" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/$tk_7.coverage" NAME="tk-7 커버리지 결과" MODIFIED="1752460263249" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tk" />
     <SUITE FILE_PATH="coverage/$main.coverage" NAME="main 커버리지 결과" MODIFIED="1750381229005" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/수행평가" />
     <SUITE FILE_PATH="coverage/$B.coverage" NAME="B 커버리지 결과" MODIFIED="1751938696534" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/$dino.coverage" NAME="dino 커버리지 결과" MODIFIED="1752138684221" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/$.coverage" NAME="백준 커버리지 결과" MODIFIED="1752194310556" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/$dino.coverage" NAME="dino 커버리지 결과" MODIFIED="1752298630743" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/$tk_5.coverage" NAME="tk-5 커버리지 결과" MODIFIED="1752460026556" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tk" />
+    <SUITE FILE_PATH="coverage/$.coverage" NAME="백준 커버리지 결과" MODIFIED="1752292374327" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/$C.coverage" NAME="C 커버리지 결과" MODIFIED="1751942177784" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/$tk_4.coverage" NAME="tk-4 커버리지 결과" MODIFIED="1752459544173" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tk" />
   </component>
 </project>
