@@ -5,12 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b0553b39-a789-47f0-8f16-7f7010ebd658" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/tk/tk-4.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tk/tk-5.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tk/tk-7.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/dino.py" beforeDir="false" afterPath="$PROJECT_DIR$/dino.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/백준.py" beforeDir="false" afterPath="$PROJECT_DIR$/백준.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/수업.py" beforeDir="false" afterPath="$PROJECT_DIR$/수업.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/수행평가/.gitignore" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/수행평가/Procfile" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/수행평가/README.md" beforeDir="false" />
@@ -55,33 +52,33 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "Python.A.executor": "Run",
-    "Python.B.executor": "Run",
-    "Python.C.executor": "Run",
-    "Python.D.executor": "Run",
-    "Python.H.executor": "Run",
-    "Python.dino.executor": "Run",
-    "Python.main.executor": "Run",
-    "Python.tk-4.executor": "Run",
-    "Python.tk-5.executor": "Run",
-    "Python.tk-7.executor": "Run",
-    "Python.백준.executor": "Run",
-    "Python.수업.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main",
-    "last_opened_file_path": "/Users/junha0729/파이썬",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;Python.A.executor&quot;: &quot;Run&quot;,
+    &quot;Python.B.executor&quot;: &quot;Run&quot;,
+    &quot;Python.C.executor&quot;: &quot;Run&quot;,
+    &quot;Python.D.executor&quot;: &quot;Run&quot;,
+    &quot;Python.H.executor&quot;: &quot;Run&quot;,
+    &quot;Python.dino.executor&quot;: &quot;Run&quot;,
+    &quot;Python.main.executor&quot;: &quot;Run&quot;,
+    &quot;Python.tk-4.executor&quot;: &quot;Run&quot;,
+    &quot;Python.tk-5.executor&quot;: &quot;Run&quot;,
+    &quot;Python.tk-7.executor&quot;: &quot;Run&quot;,
+    &quot;Python.백준.executor&quot;: &quot;Run&quot;,
+    &quot;Python.수업.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/junha0729/파이썬&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.language.and.region&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/images" />
@@ -134,6 +131,32 @@
       <workItem from="1752282035152" duration="5578000" />
       <workItem from="1752449161544" duration="1000" />
       <workItem from="1752458854315" duration="2631000" />
+      <workItem from="1752464183617" duration="1224000" />
+      <workItem from="1752641758358" duration="7215000" />
+      <workItem from="1752719724503" duration="18000" />
+      <workItem from="1752719762952" duration="4482000" />
+      <workItem from="1752736895654" duration="5797000" />
+      <workItem from="1752808468003" duration="4377000" />
+      <workItem from="1753006548243" duration="2586000" />
+      <workItem from="1753054448464" duration="8372000" />
+      <workItem from="1753142087876" duration="2948000" />
+      <workItem from="1753229764392" duration="7872000" />
+      <workItem from="1753331825416" duration="252000" />
+      <workItem from="1753406001421" duration="266000" />
+      <workItem from="1753407108451" duration="64000" />
+      <workItem from="1753620989722" duration="2635000" />
+      <workItem from="1753660713486" duration="2809000" />
+      <workItem from="1754137149520" duration="516000" />
+      <workItem from="1754137673945" duration="1327000" />
+      <workItem from="1754961746487" duration="18186000" />
+      <workItem from="1755127977279" duration="6445000" />
+      <workItem from="1755473955618" duration="8807000" />
+      <workItem from="1755564148524" duration="10668000" />
+      <workItem from="1755698998094" duration="5584000" />
+      <workItem from="1755788973557" duration="11049000" />
+      <workItem from="1756078784253" duration="1126000" />
+      <workItem from="1756092928371" duration="1019000" />
+      <workItem from="1756164907116" duration="880000" />
     </task>
     <servers />
   </component>
@@ -160,7 +183,7 @@
     <SUITE FILE_PATH="coverage/$B.coverage" NAME="B 커버리지 결과" MODIFIED="1751938696534" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/$dino.coverage" NAME="dino 커버리지 결과" MODIFIED="1752298630743" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/$tk_5.coverage" NAME="tk-5 커버리지 결과" MODIFIED="1752460026556" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tk" />
-    <SUITE FILE_PATH="coverage/$.coverage" NAME="백준 커버리지 결과" MODIFIED="1752292374327" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/$.coverage" NAME="백준 Coverage Results" MODIFIED="1756080283840" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/$C.coverage" NAME="C 커버리지 결과" MODIFIED="1751942177784" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/$tk_4.coverage" NAME="tk-4 커버리지 결과" MODIFIED="1752459544173" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/tk" />
   </component>
