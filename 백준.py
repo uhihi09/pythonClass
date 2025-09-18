@@ -1,13 +1,10 @@
-a = input()
-a = a.upper()
-wow = 'ABCDEFGHIJKLMNOPQRSTUVWXYZ'
-cnt = []
-cnt1 = []
-for i in wow:
-    cnt.append(a.count(i))
-    cnt1.append(wow.index(i))
-ans = cnt.count(max(cnt))
-if ans == 1:
-    print(wow[cnt1.index(cnt.index(max(cnt)))])
+a = int(input())
+b = int(input())
+if a == 1:
+    print(b)
+elif b == 1:
+    print(a)
 else:
-    print('?')
+    a *= 2
+    b *= 2
+    print(a+b-4)
